@@ -10,4 +10,4 @@ Here are some additional resources if you are looking to explore XGBoost and its
 3. [Complete Guide to Parameter Tuning in XGBoost] (https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 4. [scikit-learn's Gradient Boosting Classifer documentation](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
 5. [scikit-learn's GridSearchCV documentation] (http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
-6. [Tong He's XGBoost Presentation] (https://www.slideshare.net/ShangxuanZhang/xgboost)
+6. [Tong He's XGBoost presentation] (https://www.slideshare.net/ShangxuanZhang/xgboost)
