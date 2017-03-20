@@ -1,7 +1,7 @@
 # XGBRegressor
 
 ## Overview
-A simple implementation to regression problems using Python 2.7, scikit-learn, and XGBoost. Bulk of code from [Complete Guide to Parameter Tuning in XGBoost] (https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+A simple implementation to regression problems using Python 2.7, scikit-learn, and XGBoost. Bulk of code from [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 [xgbRegressor](../XGBRegressor/xgbRegressor) is a general purpose script for model training using XGBoost. It contains:
 
@@ -12,15 +12,15 @@ A simple implementation to regression problems using Python 2.7, scikit-learn, a
 * Implementation of early stopping via the Learning API
 
 ## Installing XGBoost for Python
-Follow instructions [here] (https://github.com/dmlc/xgboost/tree/master/python-package)
+Follow instructions [here](https://github.com/dmlc/xgboost/tree/master/python-package)
 
 ## Resources
 
 Here are some additional resources if you are looking to explore XGBoost and its various APIs more extensively:
 
-1. [Introduction to Boosted Trees and the XGBoost algorithm] (http://xgboost.readthedocs.io/en/latest/model.html)
-2. [The Python API documentation for XGBoost] (http://xgboost.readthedocs.io/en/latest/python/python_api.html)
-3. [Complete Guide to Parameter Tuning in XGBoost] (https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+1. [Introduction to Boosted Trees and the XGBoost algorithm](http://xgboost.readthedocs.io/en/latest/model.html)
+2. [The Python API documentation for XGBoost](http://xgboost.readthedocs.io/en/latest/python/python_api.html)
+3. [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 4. [scikit-learn's Gradient Boosting Classifer documentation](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
-5. [scikit-learn's GridSearchCV documentation] (http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
-6. [Tong He's XGBoost presentation] (https://www.slideshare.net/ShangxuanZhang/xgboost)
+5. [scikit-learn's GridSearchCV documentation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+6. [Tong He's XGBoost presentation](https://www.slideshare.net/ShangxuanZhang/xgboost)
