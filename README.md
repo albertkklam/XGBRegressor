@@ -15,7 +15,6 @@ A simple implementation to regression problems using Python 2.7, scikit-learn, a
 Follow instructions [here](https://github.com/dmlc/xgboost/tree/master/python-package)
 
 ## Resources
-
 Here are some additional resources if you are looking to explore XGBoost and its various APIs more extensively:
 
 1. [Introduction to Boosted Trees and the XGBoost algorithm](http://xgboost.readthedocs.io/en/latest/model.html)
