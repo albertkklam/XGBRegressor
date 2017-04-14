@@ -3,7 +3,7 @@
 ## Overview
 A simple implementation to regression problems using Python 2.7, scikit-learn, and XGBoost. Bulk of code from [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
-[XGBRegressor](../XGBRegressor/XGBRegressor) is a general purpose script for model training using XGBoost. It contains:
+[XGBRegressor](../XGBRegressor/XGBRegressor.ipynb) is a general purpose script for model training using XGBoost. It contains:
 
 * Functions to preprocess a data file into the necessary train and test set dataframes for XGBoost
 * Functions to convert categorical variables into dummies or dense vectors, and convert string values into Python compatible strings
